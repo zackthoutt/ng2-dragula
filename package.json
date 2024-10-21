@@ -69,5 +69,10 @@
     "ts-node": "10.9.1",
     "tslib": "^2.4.0",
     "typescript": "5.1.6"
+  },
+  "peerDependencies": {
+    "@angular/core": ">=16.0.0 <20.0.0",
+    "@angular/common": ">=16.0.0 <20.0.0",
+    "@angular/animations": ">=16.0.0 <20.0.0"
   }
 }
