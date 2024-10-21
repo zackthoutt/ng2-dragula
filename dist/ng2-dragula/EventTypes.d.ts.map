@@ -1,0 +1,1 @@
+{"version":3,"file":"EventTypes.d.ts","sourceRoot":"","sources":["../../libs/ng2-dragula/src/EventTypes.ts"],"names":[],"mappings":"AAAA,oBAAY,UAAU;IAClB,MAAM,WAAW;IACjB,MAAM,WAAW;IACjB,IAAI,SAAS;IACb,OAAO,YAAY;IACnB,IAAI,SAAS;IACb,GAAG,QAAQ;IACX,IAAI,SAAS;IACb,MAAM,WAAW;IACjB,MAAM,WAAW;IACjB,SAAS,cAAc;IACvB,WAAW,gBAAgB;CAC9B;AAED,eAAO,MAAM,SAAS,EAAE,UAAU,EAA6F,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Group.d.ts","sourceRoot":"","sources":["../../libs/ng2-dragula/src/Group.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AACpD,OAAO,EAAE,cAAc,EAAE,MAAM,kBAAkB,CAAC;AAElD,qBAAa,KAAK;IAGP,IAAI,EAAE,MAAM;IACZ,KAAK,EAAE,eAAe;IACtB,OAAO,EAAE,cAAc;IAJzB,UAAU,UAAS;gBAEjB,IAAI,EAAE,MAAM,EACZ,KAAK,EAAE,eAAe,EACtB,OAAO,EAAE,cAAc;CAEjC"}
