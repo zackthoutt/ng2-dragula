@@ -1,6 +1,10 @@
 {
   "name": "demo",
   "version": "5.1.0",
+  "version": "5.1.0",
+  "main": "dist/ng2-dragula/bundles/ng2-dragula.umd.js",
+  "module": "dist/ng2-dragula/fesm2015/ng2-dragula.js",
+  "types": "dist/ng2-dragula/ng2-dragula.d.ts",
   "private": true,
   "scripts": {
     "ng": "nx",
